@@ -14,18 +14,15 @@
       <div>
         <img src="/icon/c.jpg"  width="50" height="50">
         <img src="/icon/java.jpg"  width="50" height="50">
+         <img src="/icon/javascript.jpg"  width="50" height="50">
       </div>
       <div>
-         <img src="/icon/javascript.jpg"  width="50" height="50">
+         <img src="/icon/python.jpg"  width="50" height="50">
         <img src="/icon/sql.jpg"  width="50" height="50">
+         <img src="/icon/css.jpg"  width="50" height="50">
       </div>
       <div>
       <img src="/icon/html.jpg"  width="50" height="50">
-        <img src="/icon/css.jpg"  width="50" height="50">
-      </div>
-       <img src="/icon/python.jpg"  width="50" height="50">
-       
-      </div>
        
 
   <h3>📞Contact:</h3>
