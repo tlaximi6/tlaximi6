@@ -5,11 +5,11 @@
   ###### 📊 GitHub Stats:&nbsp; ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
   </div>
   
-   <div align="right">
+   <div align="right" style="display: flex; justify-content: space-between; width: 75%; max-width: 600px;>
       <img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9655.jpg?w=1380" alt="Developer" width="300" height="300">
     </div>
     
- <div align="left">
+ <div align="left" style="display: flex; justify-content: space-between; width: 75%; max-width: 600px;>
   <h3>🌱 Skills:</h3>
       <div>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40">
