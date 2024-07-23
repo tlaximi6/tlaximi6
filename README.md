@@ -10,7 +10,7 @@
  <div align="left">
   <h3>🖥️Languages Known:</h3>
       <div>
-        <img src="/icon/c.jpg"  width="30" height="3-">
+        <img src="/icon/c.jpg"  width="30" height="30">
         <img src="/icon/java.jpg"  width="30" height="30">
          <img src="/icon/javascript.jpg"  width="30" height="30">
       </div>
