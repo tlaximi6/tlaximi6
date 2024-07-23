@@ -4,7 +4,7 @@
   
   ###### ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
   </div>
-   <img src="icon/gif.gif" align="right"width="300" height="300" >
+   <img src="icon/gif.gif" align="right"width="500" height="500" >
  
     
  <div align="left">
@@ -27,7 +27,7 @@
     <h3>📞Contact:</h3>
    <div>
         <a href="mailto:tlaximi11@gmail.com">
-          <img src="/icon/gmail.jpg"  width="25" height="25">
+          <img src="/icon/mail.jpg"  width="25" height="25">
         </a> &nbsp; 
         <a href="https://www.linkedin.com/feed/">
        <img src="/icon/in.png"  width="25" height="25">
