@@ -36,13 +36,7 @@
   <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
           <img src="/icon/mimo.png"  width="20" height="20">
     <br>
-    <br>
    <h1></h1>
-  
-  
-
   <img src="https://github-readme-stats.vercel.app/api?username=tlaximi6&theme=radical&show_icons=true"  alt="GitHub Stats" align="left"><br />
-
-
-  <img src="https://streak-stats.demolab.com/?user=tlaximi6&theme=radical" alt="GitHub Streak" align="right">
+<img src="https://streak-stats.demolab.com/?user=tlaximi6&theme=radical" alt="GitHub Streak" align="right">
 
