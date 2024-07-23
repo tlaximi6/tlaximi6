@@ -14,13 +14,12 @@
       <div>
         <img src="/icon/c.jpg"  width="50" height="50">
         <img src="/icon/java.jpg"  width="50" height="50">
-         <img src="/icon/javascript.jpg"  width="50" height="50">
+         <img src="/icon/javascript.jpg"  width="50" height="60">
       </div>
       <div>
          <img src="/icon/python.jpg"  width="50" height="50">
         <img src="/icon/sql.jpg"  width="50" height="50">
-        
-      </div>
+         </div>
       <div>
       <img src="/icon/html.jpg"  width="50" height="50">
        
