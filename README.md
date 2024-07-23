@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://image.shutterstock.com/image-vector/cute-cartoon-girl-programmer-computer-260nw-1762214362.jpg" alt="Cartoon Girl Programmer" width="200" height="200">
+  <img src="[https://image.shutterstock.com/image-vector/cute-cartoon-girl-programmer-computer-260nw-1762214362.jpg" alt="Cartoon Girl Programmer](https://www.shutterstock.com/shutterstock/photos/2202712813/display_1500/stock-photo-woman-at-work-in-front-of-a-computer-colorful-illustration-concept-of-the-future-2202712813.jpg)" width="200" height="200">
   
   # Hi there 👋 I am Laximi!
   
