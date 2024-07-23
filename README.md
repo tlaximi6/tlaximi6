@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1 style="color:#FF5733;">Hi there 👋 I am Laximi!</h1>
+  # Hi there 👋 I am Laximi!
   
   # 📊 GitHub Stats:
   ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;
