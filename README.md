@@ -10,16 +10,17 @@
  <div align="left">
   <h3>🖥️Languages Known:</h3>
       <div>
-       &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="/icon/c.jpg"  width="30" height="30">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/icon/java.jpg"  width="30" height="30">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/javascript.jpg"  width="30" height="30">
+      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="/icon/c.jpg"  width="30" height="30">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/icon/java.jpg"  width="30" height="30">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/javascript.jpg"  width="30" height="30">
       </div>
       <div>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/python.jpg"  width="30" height="30">
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/sql.jpg"  width="30" height="30">
-         </div>
-      <div>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/python.jpg"  width="30" height="30">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/sql.jpg"  width="30" height="30">
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/icon/html.jpg"  width="30" height="30">
+         </div>
+      
+    
        <h3>🏅Certificates:</h3>
   <div>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
