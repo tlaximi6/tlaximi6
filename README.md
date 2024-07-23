@@ -19,7 +19,7 @@
       <div>
          <img src="/icon/python.jpg"  width="50" height="50">
         <img src="/icon/sql.jpg"  width="50" height="50">
-         <img src="/icon/css.jpg"  width="50" height="50">
+        
       </div>
       <div>
       <img src="/icon/html.jpg"  width="50" height="50">
@@ -28,10 +28,10 @@
   <h3>📞Contact:</h3>
    <div>
         <a href="mailto:tlaximi11@gmail.com">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30">
+          <img src="/icon/mail.jpg"  width="25" height="25">
         </a> &nbsp; 
         <a href="https://www.linkedin.com/feed/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
+       <img src="/icon/in.png"  width="25" height="25">
         </a>
       </div>
     <h3>🏅Certificates:</h3>
