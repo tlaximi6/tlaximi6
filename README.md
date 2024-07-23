@@ -22,7 +22,7 @@
       <img src="/icon/html.jpg"  width="30" height="30">
        <h3>🏅Certificates:</h3>
   <div>
-  <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
+   &nbsp; <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
           <img src="/icon/mimo.png"  width="20" height="20"> </a>
     <h3>📞Contact:</h3>
    <div>
