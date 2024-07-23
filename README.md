@@ -22,8 +22,8 @@
       </div>
     </div>
 
-    <div align="left" style="margin-top: 20px;">
-      ### 📍 Certificates:
+  <div align="left" style="margin-top: 20px;">
+ ### 📍 Certificates:
       <div>
         <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
       </div>
