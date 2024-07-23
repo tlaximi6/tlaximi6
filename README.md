@@ -1,5 +1,7 @@
 <div align="center">
   
+  <img src="https://image.shutterstock.com/image-vector/cute-cartoon-girl-programmer-computer-260nw-1762214362.jpg" alt="Cartoon Girl Programmer" width="200" height="200">
+  
   # Hi there 👋 I am Laximi!
   
   ###### 📊 GitHub Stats:&nbsp; ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
