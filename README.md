@@ -18,7 +18,7 @@
       </div>
       <div>
          <img src="/icon/python.jpg"  width="50" height="50">
-        <img src="/icon/sql.jpg"  width="50" height="50">
+        <img src="/icon/sql.jpg"  width="60" height="50">
          </div>
       <div>
       <img src="/icon/html.jpg"  width="50" height="50">
