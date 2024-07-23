@@ -34,4 +34,5 @@
   <div>
     <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
   </div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlaximi6&" alt="tlaximi6" /></p>
 </div>
