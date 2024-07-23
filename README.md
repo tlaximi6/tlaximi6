@@ -18,11 +18,11 @@
 
 #### 📞 Contact:
 
-<div>
-  <a href="mailto:tlaximi11@gmail.com" style="padding-right: 40px;">
+<div style="display: flex; align-items: center;">
+  <a href="mailto:tlaximi11@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" style="margin: 30px;">
   </a>
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/feed/" style="margin-left: 50px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40" style="margin: 30px;">
   </a>
 </div>
