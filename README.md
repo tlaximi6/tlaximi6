@@ -40,9 +40,9 @@
    <h1></h1>
   
   
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tlaximi6&theme=radical&show_icons=true" alt="GitHub Stats"><br />
-  </div>
-  <div align="right">
-  <img src="https://streak-stats.demolab.com/?user=tlaximi6&theme=radical" alt="GitHub Streak">
-</div>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=tlaximi6&theme=radical&show_icons=true"  alt="GitHub Stats" align="left"><br />
+
+
+  <img src="https://streak-stats.demolab.com/?user=tlaximi6&theme=radical" alt="GitHub Streak" align="right">
+
