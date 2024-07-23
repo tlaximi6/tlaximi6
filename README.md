@@ -3,6 +3,7 @@
   # Hi there 👋 I am Laximi!
   
   ###### 📊 GitHub Stats:&nbsp; ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
+  </div>
   
   <div style="display: flex; justify-content: center; align-items: flex-start; width: 100%;">
     <div style="max-width: 60%; text-align: left;">
@@ -52,4 +53,4 @@
     </div>
   </div>
 
-</div>
+
