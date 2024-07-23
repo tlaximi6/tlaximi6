@@ -33,7 +33,7 @@
       </div>
     <h3>🏅Certificates:</h3>
   <div>
-    <a href="mailto:tlaximi11@gmail.com"> </a>
+    <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">🤖HTML</a>
   </div>
   <br>
   <br>
