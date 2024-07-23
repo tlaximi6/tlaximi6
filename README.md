@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/your-image.jpeg" alt="Laximi" style="width:200px; height:200px; border-radius:50%; object-fit:cover; margin-top:20px;">
+  <img src="img.jpeg" alt="Laximi" style="width:200px; height:200px; border-radius:50%; object-fit:cover; margin-top:20px;">
   
   # Hi there 👋 I am Laximi!
   
@@ -24,7 +24,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30">
     </a> &nbsp;
    
-    <a href="https://www.linkedin.com/feed/">
+   <a href="https://www.linkedin.com/feed/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
     </a>
   </div>
