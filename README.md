@@ -35,7 +35,7 @@
   <div>
    <p>HTML:</p>
   <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
-          <img src="/icon/mimo.jpg"  width="20" height="20">
+          <img src="/icon/mimo.png"  width="20" height="20">
   </div>
   <br>
   <br>
