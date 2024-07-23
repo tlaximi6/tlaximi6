@@ -41,9 +41,9 @@
   <br>
   </div>
   
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats"><br />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tlaximi6&theme=radical&show_icons=true" alt="GitHub Stats"><br />
   </div>
-  <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=AryanK1511&theme=radical" alt="GitHub Streak">
+  <div align="right">
+  <img src="https://streak-stats.demolab.com/?user=tlaximi6&theme=radical" alt="GitHub Streak">
 </div>
