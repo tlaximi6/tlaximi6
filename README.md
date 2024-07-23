@@ -5,7 +5,7 @@
   ###### 📊 GitHub Stats:&nbsp; ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
   </div>
   
-   <div align="right" style="display: flex; >
+   <div align="right" style="justify-content: space-between;>
       <img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9655.jpg?w=1380" alt="Developer" width="300" height="300">
     </div>
     
@@ -24,7 +24,7 @@
       </div>
        
 
-  <h3>📞 Contact:</h3>
+  <h3>📞Contact:</h3>
    <div>
         <a href="mailto:tlaximi11@gmail.com">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30">
@@ -33,7 +33,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
         </a>
       </div>
-    <h3>📞📍 Certificates:</h3>
+    <h3>📍Certificates:</h3>
   <div>
     <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
   </div>
