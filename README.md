@@ -4,7 +4,7 @@
   
   ###### ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
   </div>
-   <img src="/icon.gif.gif" align="right"width="300" height="300" >
+   <img src="icon/gif.gif" align="right"width="300" height="300" >
  
     
  <div align="left">
@@ -24,7 +24,7 @@
   <div>
   <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
           <img src="/icon/mimo.png"  width="20" height="20">
-      <h3>📞Contact:</h3>
+    <h3>📞Contact:</h3>
    <div>
         <a href="mailto:tlaximi11@gmail.com">
           <img src="/icon/gmail.jpg"  width="25" height="25">
