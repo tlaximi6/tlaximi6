@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/feed/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40" style="margin: 10px;">
   </a>
-  <a href="https://drive.google.com/drive/home">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Drive_logo.png" alt="Mimo Certificate" width="40" height="40" style="margin: 10px;">
-  </a>
 </div>
 
 </div>
