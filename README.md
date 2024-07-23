@@ -33,7 +33,7 @@
       </div>
     <h3>🏅Certificates:</h3>
   <div>
-    
+    <a href="mailto:tlaximi11@gmail.com"> </a>
   </div>
   <br>
   <br>
