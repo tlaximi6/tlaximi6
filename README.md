@@ -33,7 +33,9 @@
       </div>
     <h3>🏅Certificates:</h3>
   <div>
-    <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">🤖HTML</a>
+   <p>HTML:</p>
+  <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
+          <img src="/icon/mimo.jpg"  width="20" height="20">
   </div>
   <br>
   <br>
