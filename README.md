@@ -33,7 +33,7 @@
       </div>
     <h3>🏅Certificates:</h3>
   <div>
-  <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">HTML:
+  <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
           <img src="/icon/mimo.png"  width="20" height="20">
   </div>
   <br>
