@@ -27,4 +27,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
     </a>
   </div>
+  ### 📍Certificates:
+  <div>
+    <a href="path/to/your/mimo-html.pdf" download="Mimo HTML">Mimo HTML</a>
+  </div>
 </div>
