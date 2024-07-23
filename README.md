@@ -29,6 +29,6 @@
   </div>
   ### 📍Certificates:
   <div>
-    <a href="path/to/your/mimo-html.pdf" download="Mimo HTML">Mimo HTML</a>
+    <a href="Hooray! I just completed _HTML_ and received a Mimo Certificate!.pdf">Mimo HTML</a>
   </div>
 </div>
