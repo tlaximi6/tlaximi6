@@ -27,7 +27,7 @@
     <h3>📞Contact:</h3>
    <div>
         <a href="mailto:tlaximi11@gmail.com">
-          <img src="/icon/mail.jpg"  width="25" height="25">
+          <img src="/icon/email.jpg"  width="25" height="25">
         </a> &nbsp; 
         <a href="https://www.linkedin.com/feed/">
        <img src="/icon/in.png"  width="25" height="25">
