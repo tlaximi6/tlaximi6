@@ -2,7 +2,7 @@
 
 # Hi there 👋 I am Laximi!
 
-###🌱 Skills:
+### 🌱 Skills:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40">
