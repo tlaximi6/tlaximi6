@@ -33,6 +33,8 @@
   
   <div>
     <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
+    <br>
+    <br>
   </div>
 
   <div style="display: flex; justify-content: center; gap: 20px;">
