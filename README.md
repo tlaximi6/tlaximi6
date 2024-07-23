@@ -16,19 +16,21 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
   </div>
   
-  ### 📞Contact:
+  ### 📞 Contact:
   
   <div>
     <a href="mailto:tlaximi11@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30">
     </a> &nbsp;
    
-   <a href="https://www.linkedin.com/feed/">
+    <a href="https://www.linkedin.com/feed/">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
     </a>
   </div>
-  ###📍Certificates:
+  
+  ### 📍 Certificates:
+  
   <div>
-    <a href="Hooray! I just completed _HTML_ and received a Mimo Certificate!.pdf">🤖 HTML</a>
+    <a href="Hooray! I just completed _HTML_ and received a Mimo Certificate!.pdf" style="text-decoration:none;">🤖 HTML</a>
   </div>
 </div>
