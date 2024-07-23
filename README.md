@@ -10,19 +10,21 @@
  <div align="left">
   <h3>🖥️Languages Known:</h3>
       <div>
-        <img src="/icon/c.jpg"  width="50" height="50">
-        <img src="/icon/java.jpg"  width="50" height="50">
-         <img src="/icon/javascript.jpg"  width="60" height="50">
+        <img src="/icon/c.jpg"  width="30" height="3-">
+        <img src="/icon/java.jpg"  width="30" height="30">
+         <img src="/icon/javascript.jpg"  width="30" height="30">
       </div>
       <div>
-         <img src="/icon/python.jpg"  width="50" height="50">
-        <img src="/icon/sql.jpg"  width="60" height="50">
+         <img src="/icon/python.jpg"  width="30" height="30">
+        <img src="/icon/sql.jpg"  width="30" height="30">
          </div>
       <div>
-      <img src="/icon/html.jpg"  width="50" height="50">
-       
-
-  <h3>📞Contact:</h3>
+      <img src="/icon/html.jpg"  width="30" height="30">
+       <h3>🏅Certificates:</h3>
+  <div>
+  <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
+          <img src="/icon/mimo.png"  width="20" height="20">
+      <h3>📞Contact:</h3>
    <div>
         <a href="mailto:tlaximi11@gmail.com">
           <img src="/icon/gmail.jpg"  width="25" height="25">
@@ -31,10 +33,6 @@
        <img src="/icon/in.png"  width="25" height="25">
         </a>
       </div>
-    <h3>🏅Certificates:</h3>
-  <div>
-  <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
-          <img src="/icon/mimo.png"  width="20" height="20">
     <br>
    <h1></h1>
   <img src="https://github-readme-stats.vercel.app/api?username=tlaximi6&theme=radical&show_icons=true"  alt="GitHub Stats" align="left"><br />
