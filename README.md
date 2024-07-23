@@ -33,13 +33,7 @@
   
   <div>
     <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
-    <br>
-    <br>
   </div>
-
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlaximi6&" alt="tlaximi6" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tlaximi6&show_icons=true&locale=en" alt="tlaximi6" />
-  </div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlaximi6&" alt="tlaximi6" /> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tlaximi6&show_icons=true&locale=en" alt="tlaximi6" /></p>
 
 </div>
