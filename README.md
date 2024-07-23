@@ -20,8 +20,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/icon/html.jpg"  width="30" height="30">
          </div>
       
-    
-       <h3>🏅Certificates:</h3>
+<h3>🏅Certificates:</h3>
   <div>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
           <img src="/icon/mimo.png"  width="20" height="20"> </a>
