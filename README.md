@@ -14,7 +14,7 @@
       <div>
         <img src="/icon/c.jpg"  width="50" height="50">
         <img src="/icon/java.jpg"  width="50" height="50">
-         <img src="/icon/javascript.jpg"  width="50" height="60">
+         <img src="/icon/javascript.jpg"  width="60" height="50">
       </div>
       <div>
          <img src="/icon/python.jpg"  width="50" height="50">
