@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="img.jpeg" alt="Laximi" style="width:200px; height:200px; border-radius:100%; object-fit:cover; margin-top:20px;">
   
   # Hi there 👋 I am Laximi!
   
