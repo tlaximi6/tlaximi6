@@ -24,7 +24,7 @@
       </div>
        
 
-  ### 📞 Contact:
+  <h3>📞 Contact:</h3>
    <div>
         <a href="mailto:tlaximi11@gmail.com">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30">
@@ -33,8 +33,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
         </a>
       </div>
-  ### 📍 Certificates:
-  
+    <h3>📞📍 Certificates:</h3>
   <div>
     <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
   </div>
