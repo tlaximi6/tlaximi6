@@ -9,7 +9,7 @@
       <img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9655.jpg?w=1380" alt="Developer" width="300" height="300">
     </div>
     
- <div align="left" style="display: flex; justify-content: space-between; >
+ <div align="left" >
   <h3>🌱 Skills:</h3>
       <div>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40">
