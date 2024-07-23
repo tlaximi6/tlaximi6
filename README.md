@@ -10,7 +10,7 @@
     </div>
     
  <div align="left">
-  <h3>🌱 Languages Known:</h3>
+  <h3>🖥️Languages Known:</h3>
       <div>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40">
@@ -33,7 +33,7 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
         </a>
       </div>
-    <h3>📍Certificates:</h3>
+    <h3>🏅Certificates:</h3>
   <div>
     <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
   </div>
