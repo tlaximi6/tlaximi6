@@ -20,11 +20,11 @@
 
 <div style="display: flex; align-items: center;">
   <a href="mailto:tlaximi11@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="20" height="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30">
   </a> &nbsp;
  
   <a href="https://www.linkedin.com/feed/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="30" height="20">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="60" height="30">
   </a>
 </div>
 
