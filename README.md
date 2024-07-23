@@ -23,7 +23,7 @@
        <h3>🏅Certificates:</h3>
   <div>
   <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
-          <img src="/icon/mimo.png"  width="20" height="20">
+          <img src="/icon/mimo.png"  width="20" height="20"> </a>
     <h3>📞Contact:</h3>
    <div>
         <a href="mailto:tlaximi11@gmail.com">
