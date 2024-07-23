@@ -12,16 +12,19 @@
  <div align="left">
   <h3>🖥️Languages Known:</h3>
       <div>
-        <img src="/icon/c.jpg"  width="40" height="40">
-        <img src="/icon/java.jpg"  width="40" height="40">
+        <img src="/icon/c.jpg"  width="50" height="50">
+        <img src="/icon/java.jpg"  width="50" height="50">
       </div>
       <div>
-         <img src="/icon/javascript.jpg"  width="40" height="40">
-        <img src="/icon/sql.jpg"  width="40" height="40">
+         <img src="/icon/javascript.jpg"  width="50" height="50">
+        <img src="/icon/sql.jpg"  width="50" height="50">
       </div>
       <div>
-      <img src="/icon/html.jpg"  width="40" height="40">
-        <img src="/icon/css.jpg"  width="40" height="40">
+      <img src="/icon/html.jpg"  width="50" height="50">
+        <img src="/icon/css.jpg"  width="50" height="50">
+      </div>
+       <img src="/icon/python.jpg"  width="50" height="50">
+       
       </div>
        
 
@@ -36,7 +39,7 @@
       </div>
     <h3>🏅Certificates:</h3>
   <div>
-    <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
+    
   </div>
   <br>
   <br>
