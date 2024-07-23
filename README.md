@@ -23,7 +23,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" style="margin: 30px;">
   </a>
   <a href="https://www.linkedin.com/feed/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40" style="margin: 30px 1500px 30px 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40" style="margin: 130px 150px 130px 130px;">
   </a>
 </div>
 
