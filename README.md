@@ -10,25 +10,25 @@
  <div align="left">
   <h3>🖥️Languages Known:</h3>
       <div>
-        &nbsp;&nbsp;<img src="/icon/c.jpg"  width="30" height="30">
-        &nbsp;&nbsp;<img src="/icon/java.jpg"  width="30" height="30">
-        &nbsp;&nbsp; <img src="/icon/javascript.jpg"  width="30" height="30">
+       &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<img src="/icon/c.jpg"  width="30" height="30">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/icon/java.jpg"  width="30" height="30">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/javascript.jpg"  width="30" height="30">
       </div>
       <div>
-        &nbsp;&nbsp; <img src="/icon/python.jpg"  width="30" height="30">
-       &nbsp;&nbsp; <img src="/icon/sql.jpg"  width="30" height="30">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/python.jpg"  width="30" height="30">
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/icon/sql.jpg"  width="30" height="30">
          </div>
       <div>
-      &nbsp;&nbsp;<img src="/icon/html.jpg"  width="30" height="30">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/icon/html.jpg"  width="30" height="30">
        <h3>🏅Certificates:</h3>
   <div>
-   &nbsp;&nbsp; <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/icon/doc/HTML_  Mimo Certificate!.pdf">
           <img src="/icon/mimo.png"  width="20" height="20"> </a>
     <h3>📞Contact:</h3>
    <div>
-        &nbsp;&nbsp;<a href="mailto:tlaximi11@gmail.com">
+       &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<a href="mailto:tlaximi11@gmail.com">
           <img src="/icon/email.jpg"  width="25" height="25">
-        </a> &nbsp; 
+        </a> &nbsp; &nbsp;&nbsp;
         <a href="https://www.linkedin.com/feed/">
        <img src="/icon/in.png"  width="25" height="25">
         </a>
