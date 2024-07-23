@@ -30,6 +30,6 @@
   ### 📍 Certificates:
   
   <div>
-    <a href="Hooray! I just completed _HTML_ and received a Mimo Certificate!.pdf" style="text-decoration:none;">🤖 HTML</a>
+    <a href="Hooray! I just completed _HTML_ and received a Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
   </div>
 </div>
