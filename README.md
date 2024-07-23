@@ -1,6 +1,14 @@
 <div align="center">
   
-  # Hi there 👋 I am Laximi!
+  # Hi there 👋 I am Laximi!  
+  </div>
+  ### 📊 GitHub Stats:
+  
+  ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;
+  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp;
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
+</div>
+  
   
   ### 🌱 Skills:
   
@@ -31,11 +39,4 @@
   
   <div>
     <a href="HTML_ Mimo Certificate!.pdf" style="text-decoration:none; color:inherit;">🤖 HTML</a>
-  </div>
-  
-  ### 📊 GitHub Stats:
-  
-  ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social)
-  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6)
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6)
-</div>
+ 
