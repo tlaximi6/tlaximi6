@@ -13,11 +13,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Database" width="40" height="40">
 </div>
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Check_mark_green.svg" alt="Software Testing" width="40" height="40">
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
 </div>
 
-## 📞 Contact:
+#### 📞 Contact:
 
 <div>
   <a href="mailto:tlaximi11@gmail.com">
