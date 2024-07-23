@@ -16,11 +16,12 @@
         <img src="/icon/java.jpg"  width="40" height="40">
       </div>
       <div>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Programming" width="40" height="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle Database" width="40" height="40">
+         <img src="/icon/javascript.jpg"  width="40" height="40">
+        <img src="/icon/sql.jpg"  width="40" height="40">
       </div>
       <div>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
+      <img src="/icon/html.jpg"  width="40" height="40">
+        <img src="/icon/css.jpg"  width="40" height="40">
       </div>
        
 
