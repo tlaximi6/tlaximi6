@@ -5,7 +5,7 @@
   ###### 📊 GitHub Stats:&nbsp; ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
   </div>
   
-   <div align="right" style="justify-content: space-between;>
+   <div align="right">
       <img src="https://img.freepik.com/premium-photo/female-developer-background_665280-9655.jpg?w=1380" alt="Developer" width="300" height="300">
     </div>
     
@@ -41,12 +41,9 @@
   <br>
   </div>
   
-  <div style="display: flex; justify-content: space-between; width: 75%; max-width: 600px;">
-    <div>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tlaximi6&" alt="tlaximi6" />
-      <br>
-    </div>
-    <div>
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=tlaximi6&show_icons=true&locale=en" alt="tlaximi6" />
-    </div>
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats"><br />
   </div>
+  <div align="left">
+  <img src="https://streak-stats.demolab.com/?user=AryanK1511&theme=radical" alt="GitHub Streak">
+</div>
