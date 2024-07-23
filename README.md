@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="tlaximi6/img.jpeg" alt="Laximi" style="width:200px; height:200px; border-radius:50%; object-fit:cover; margin-top:20px;">
+  <img src="img.jpeg" alt="Laximi" style="width:200px; height:200px; border-radius:50%; object-fit:cover; margin-top:20px;">
 </div>
 
 # Hi there 👋 I am Laximi!
