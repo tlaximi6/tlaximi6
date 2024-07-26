@@ -5,6 +5,7 @@
   ###### ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
   </div>
    <img src="icon/gif.gif" align="right"width="350" height="350" >
+   <img src="icon/pic.png" align="center"width="350" height="350" >
  
     
  <div align="left">
