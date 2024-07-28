@@ -1,8 +1,9 @@
 <div align="center">
   
   # Hi there 👋 I am Laximi!
+  <div align="center" boarder="1">
   #### I am from:   <img src="/icon/bhutan.png"  width="18" height="18" align="bottom">
-  
+   </div>
   ###### ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
   </div>
    <img src="icon/gif.gif" align="right"width="350" height="350" >
