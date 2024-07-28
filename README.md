@@ -1,7 +1,7 @@
 <div align="center">
   
   # Hi there 👋 I am Laximi!
- <div align="center" border="1">
+ <div align="center" border="5" boardercolour="white">
    
    #### I am from:   <img src="/icon/bhutan.png"  width="18" height="18" align="bottom">
    </div>
