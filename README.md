@@ -1,7 +1,7 @@
 <div align="center">
   
   # Hi there 👋 I am Laximi!
-  #### I am from 🇧🇹 
+  #### I am from <img src="/icon/email.jpg"  width="25" height="25">
   
   ###### ![GitHub followers](https://img.shields.io/github/followers/tlaximi6?label=Follow&style=social) &nbsp;  ![GitHub Views](https://komarev.com/ghpvc/?username=tlaximi6) &nbsp; ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=tlaximi6.tlaximi6) &nbsp;
   </div>
