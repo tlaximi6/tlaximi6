@@ -1,0 +1,99 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #ba82a7, #6c757d);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    background-color: rgba(122, 9, 9, 0.1);
+    padding: 20px;
+    max-width: 400px;
+    text-align: center;
+    box-shadow: 0 15px 15px rgba(220, 206, 206, 0.2);
+}
+
+.profile-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    margin-bottom: 20px;
+}
+
+
+    .tangerine-regular {
+        font-family: "Tangerine", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .tangerine-bold {
+        font-family: "Tangerine", cursive;
+        font-weight: 700;
+        font-style: normal;
+      }
+      .pattaya-regular {
+        font-family: "Pattaya", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+    
+      }
+      .charm-regular {
+        font-family: "Charm", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .charm-bold {
+        margin-bottom: 0%;
+        margin-top: 0%;
+        font-family: "Charm", cursive;
+        color: #372d52;
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+      
+    
+
+p {
+    font-size: 1rem;
+    margin-bottom: 5px;
+    color: rgba(248, 242, 242, 0.8);
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.links a {
+    background-color: #819071;
+    color: #0b0b0b;
+    padding: 10px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: transform 0.2s, background-color 0.3s;
+}
+
+.links a:hover {
+    background-color: #e7ebf0;
+    color: #fff;
+    transform: scale(1.05);
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+  
